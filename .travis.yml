@@ -5,7 +5,7 @@ git:
 
 env:
   global:
-    - GH_REF=github.com/TofuBytesDEV/No-Sleep-Tonight.git
+    - GH_REF=github.com/TofuBytesDEV/No-Sleep-Tonight-Modpack.git
 
 branches:
   only:
