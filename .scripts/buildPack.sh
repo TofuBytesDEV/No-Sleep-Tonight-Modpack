@@ -5,7 +5,7 @@ modpack_config=modpack.json
 modpack_output_zip=modpack.zip
 build_folder=build
 workspace_path=$(pwd)
-download_forge_pattern='https://files.minecraftforge.net/maven/net/minecraftforge/forge/%version%/forge-%version%-universal.jar'
+download_forge_pattern='https://files.minecraftforge.net/maven/net/minecraftforge/forge/%version%/forge-%version%-installer.jar'
 
 url_download_list=()
 curse_mod_projectIds=()
