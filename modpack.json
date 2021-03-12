@@ -1,6 +1,8 @@
 {
     "forgeVersion":"1.12.2-14.23.5.2854",
     "mods":{
+		"urls":[
+		],
         "curse":[
             {
 			  "projectID": 228525,
